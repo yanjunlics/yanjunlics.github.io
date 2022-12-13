@@ -364,4 +364,33 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+	border-spacing: 10px;
+	border-collapse: separate;
+}
+
+table.tooltable, table.tooltable th, td {
+    border: none;
+    text-align: left;
+	border-collapse: collapse;
+}
+
+hh4 {
+  display: block;
+  font-size: 1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+
+
+hhh4 {
+  display: block;
+  font-size: 1em;
+  margin-top: 0.9em;
+  margin-bottom: 0.9em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
 }
