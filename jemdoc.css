@@ -75,7 +75,13 @@ a:hover {
 #layout-menu a:hover {
 	text-decoration: none;
 }
-
+/*a {*/
+/*  color: #336699*/
+/*  !*#3366CC;*!*/
+/*}*/
+a {
+  color: #3366CC;
+}
 div.menu-category {
 	border-bottom: 1px solid gray;
 	margin-top: 0.8em;
