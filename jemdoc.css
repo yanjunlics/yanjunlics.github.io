@@ -375,10 +375,10 @@ table.imgtable, table.imgtable td {
 	border-collapse: separate;
 }
 
-table.clustrmaps, table.clustrmaps td {
+table.clustrmapstable, table.clustrmapstable td {
     border: none;
     text-align: left;
-	margin-left: 100px;
+	margin-left: 90px;
 	border-spacing: 10px;
 	border-collapse: separate;
 }
