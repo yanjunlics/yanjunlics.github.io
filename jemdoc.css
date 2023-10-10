@@ -375,6 +375,14 @@ table.imgtable, table.imgtable td {
 	border-collapse: separate;
 }
 
+table.clustrmaps, table.clustrmaps td {
+    border: none;
+    text-align: left;
+	margin-left: 100px;
+	border-spacing: 10px;
+	border-collapse: separate;
+}
+
 table.tooltable, table.tooltable th, td {
     border: none;
     text-align: left;
