@@ -69,7 +69,8 @@ a:hover {
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #527bbd;
+	/*color: #527bbd;*/
+	color: #1D4F91;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -125,6 +126,8 @@ strong {
 
 h1, h2, h3 {
 	color: #527bbd;
+	/*color: #0021A5;*/
+	/*color: #1D4F91;*/
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
